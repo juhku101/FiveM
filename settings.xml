@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<_x202A__x206C__x200C__x200B__x206A__x200E__x202E__x202E__x202A__x206F__x200D__x206D__x202C__x206E__x206D__x202D__x200E__x206F__x202A__x202D__x200F__x206A__x206F__x200F__x206A__x200C__x206D__x200E__x206F__x206B__x206F__x202E__x200D__x206A__x206B__x200F__x200F__x206C__x206F__x200C__x202E_ xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <LastUpdateCheck>2018-08-26T13:33:03.4534072+03:00</LastUpdateCheck>
+  <Modules>
+    <_x202A__x202C__x200D__x200C__x200B__x202D__x200C__x200D__x202A__x202A__x206A__x202C__x200E__x200E__x206A__x206F__x200B__x202D__x202D__x206B__x206A__x202B__x200F__x200C__x206F__x206C__x202D__x206C__x202A__x200C__x200D__x202D__x206E__x200C__x206A__x200E__x202E__x206C__x206C__x206B__x202E_>
+      <CallingConvention>StdCall</CallingConvention>
+      <Enable>true</Enable>
+      <Export></Export>
+      <Parameters i:nil="true" />
+      <Path>C:\Users\Admin\Desktop\LUA\five-lua-hack.dll</Path>
+    </_x202A__x202C__x200D__x200C__x200B__x202D__x200C__x200D__x202A__x202A__x206A__x202C__x200E__x200E__x206A__x206F__x200B__x202D__x202D__x206B__x206A__x202B__x200F__x200C__x206F__x206C__x202D__x206C__x202A__x200C__x200D__x202D__x206E__x200C__x206A__x200E__x202E__x206C__x206C__x206B__x202E_>
+    <_x202A__x202C__x200D__x200C__x200B__x202D__x200C__x200D__x202A__x202A__x206A__x202C__x200E__x200E__x206A__x206F__x200B__x202D__x202D__x206B__x206A__x202B__x200F__x200C__x206F__x206C__x202D__x206C__x202A__x200C__x200D__x202D__x206E__x200C__x206A__x200E__x202E__x206C__x206C__x206B__x202E_>
+      <Enable>true</Enable>
+      <Export i:nil="true" />
+      <Parameters i:nil="true" />
+      <Path>C:\Users\HENRI\Desktop\New folder\five-lua-hack.dll</Path>
+    </_x202A__x202C__x200D__x200C__x200B__x202D__x200C__x200D__x202A__x202A__x206A__x202C__x200E__x200E__x206A__x206F__x200B__x202D__x202D__x206B__x206A__x202B__x200F__x200C__x206F__x206C__x202D__x206C__x202A__x200C__x200D__x202D__x206E__x200C__x206A__x200E__x202E__x206C__x206C__x206B__x202E_>
+    <_x202A__x202C__x200D__x200C__x200B__x202D__x200C__x200D__x202A__x202A__x206A__x202C__x200E__x200E__x206A__x206F__x200B__x202D__x202D__x206B__x206A__x202B__x200F__x200C__x206F__x206C__x202D__x206C__x202A__x200C__x200D__x202D__x206E__x200C__x206A__x200E__x202E__x206C__x206C__x206B__x202E_>
+      <Enable>true</Enable>
+      <Export i:nil="true" />
+      <Parameters i:nil="true" />
+      <Path>C:\Users\HENRI\Desktop\Lua executor\five-lua-hack.dll</Path>
+    </_x202A__x202C__x200D__x200C__x200B__x202D__x200C__x200D__x202A__x202A__x206A__x202C__x200E__x200E__x206A__x206F__x200B__x202D__x202D__x206B__x206A__x202B__x200F__x200C__x206F__x206C__x202D__x206C__x202A__x200C__x200D__x202D__x206E__x200C__x206A__x200E__x202E__x206C__x206C__x206B__x202E_>
+    <_x202A__x202C__x200D__x200C__x200B__x202D__x200C__x200D__x202A__x202A__x206A__x202C__x200E__x200E__x206A__x206F__x200B__x202D__x202D__x206B__x206A__x202B__x200F__x200C__x206F__x206C__x202D__x206C__x202A__x200C__x200D__x202D__x206E__x200C__x206A__x200E__x202E__x206C__x206C__x206B__x202E_>
+      <Enable>true</Enable>
+      <Export i:nil="true" />
+      <Parameters i:nil="true" />
+      <Path>C:\Users\Juhku101\Desktop\Kansiot\HACKS\FiveM\TOIMIVAT\Lua\five-lua-hack.dll</Path>
+    </_x202A__x202C__x200D__x200C__x200B__x202D__x200C__x200D__x202A__x202A__x206A__x202C__x200E__x200E__x206A__x206F__x200B__x202D__x202D__x206B__x206A__x202B__x200F__x200C__x206F__x206C__x202D__x206C__x202A__x200C__x200D__x202D__x206E__x200C__x206A__x200E__x202E__x206C__x206C__x206B__x202E_>
+    <_x202A__x202C__x200D__x200C__x200B__x202D__x200C__x200D__x202A__x202A__x206A__x202C__x200E__x200E__x206A__x206F__x200B__x202D__x202D__x206B__x206A__x202B__x200F__x200C__x206F__x206C__x202D__x206C__x202A__x200C__x200D__x202D__x206E__x200C__x206A__x200E__x202E__x206C__x206C__x206B__x202E_>
+      <Enable>true</Enable>
+      <Export i:nil="true" />
+      <Parameters i:nil="true" />
+      <Path>C:\Users\Juhku101\Documents\My Games\LUA\injector\five-lua-hack.dll</Path>
+    </_x202A__x202C__x200D__x200C__x200B__x202D__x200C__x200D__x202A__x202A__x206A__x202C__x200E__x200E__x206A__x206F__x200B__x202D__x202D__x206B__x206A__x202B__x200F__x200C__x206F__x206C__x202D__x206C__x202A__x200C__x200D__x202D__x206E__x200C__x206A__x200E__x202E__x206C__x206C__x206B__x202E_>
+    <_x202A__x202C__x200D__x200C__x200B__x202D__x200C__x200D__x202A__x202A__x206A__x202C__x200E__x200E__x206A__x206F__x200B__x202D__x202D__x206B__x206A__x202B__x200F__x200C__x206F__x206C__x202D__x206C__x202A__x200C__x200D__x202D__x206E__x200C__x206A__x200E__x202E__x206C__x206C__x206B__x202E_>
+      <Enable>true</Enable>
+      <Export i:nil="true" />
+      <Parameters i:nil="true" />
+      <Path>C:\Users\juhku101\Desktop\FiveM\muut\five-lua-hack.dll</Path>
+    </_x202A__x202C__x200D__x200C__x200B__x202D__x200C__x200D__x202A__x202A__x206A__x202C__x200E__x200E__x206A__x206F__x200B__x202D__x202D__x206B__x206A__x202B__x200F__x200C__x206F__x206C__x202D__x206C__x202A__x200C__x200D__x202D__x206E__x200C__x206A__x200E__x202E__x206C__x206C__x206B__x202E_>
+  </Modules>
+  <Options>
+    <Advanced>
+      <DisableExceptionSupport>false</DisableExceptionSupport>
+      <DisableSEHValidation>false</DisableSEHValidation>
+      <HideFromDebugger>false</HideFromDebugger>
+      <ManualResolveImports>false</ManualResolveImports>
+    </Advanced>
+    <AutoInject>true</AutoInject>
+    <Background1>#FF8080</Background1>
+    <Background2>Red</Background2>
+    <CloseOnInject>false</CloseOnInject>
+    <Delay>0</Delay>
+    <DelayBetween>0</DelayBetween>
+    <ErasePE>true</ErasePE>
+    <HideModule>true</HideModule>
+    <Method>4</Method>
+    <Scramble>
+      <CreateFakeDebugDirectory>false</CreateFakeDebugDirectory>
+      <CreateNewEntryPoint>false</CreateNewEntryPoint>
+      <InsertExtraSections>false</InsertExtraSections>
+      <ModifyAssemblyCode>false</ModifyAssemblyCode>
+      <ModifyImportTable>false</ModifyImportTable>
+      <MoveRelocationTable>false</MoveRelocationTable>
+      <RemoveDebugData>false</RemoveDebugData>
+      <RemoveUselessData>false</RemoveUselessData>
+      <RenameSections>false</RenameSections>
+      <ScrambleHeaderFields>false</ScrambleHeaderFields>
+      <ShiftSectionData>false</ShiftSectionData>
+      <ShiftSectionMemory>false</ShiftSectionMemory>
+      <StripSectionCharacteristics>false</StripSectionCharacteristics>
+    </Scramble>
+    <StealthInject>true</StealthInject>
+    <TextColor>Black</TextColor>
+  </Options>
+  <ProcessName>FiveM.exe</ProcessName>
+  <Warnings>
+    <LdrpLoadDll>false</LdrpLoadDll>
+    <ManualMap>false</ManualMap>
+    <Scramble>false</Scramble>
+  </Warnings>
+</_x202A__x206C__x200C__x200B__x206A__x200E__x202E__x202E__x202A__x206F__x200D__x206D__x202C__x206E__x206D__x202D__x200E__x206F__x202A__x202D__x200F__x206A__x206F__x200F__x206A__x200C__x206D__x200E__x206F__x206B__x206F__x202E__x200D__x206A__x206B__x200F__x200F__x206C__x206F__x200C__x202E_>
